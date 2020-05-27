@@ -1,0 +1,19 @@
+#image{
+    float: right;
+    height:50dp;
+    width: 50dp;
+}
+#info{
+    float:right;
+    padding-top: 200dp;
+    padding-left: 200dp;
+    
+}
+#form{
+    float: left;
+}
+#set{
+    float: right;
+   
+   
+}
